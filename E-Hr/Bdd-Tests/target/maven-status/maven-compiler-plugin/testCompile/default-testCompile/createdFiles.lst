@@ -1,0 +1,4 @@
+com/qachapter/pages/DictionaryPage.class
+com/qachapter/steps/DefinitionSteps.class
+com/qachapter/DefinitionTestSuite.class
+com/qachapter/steps/serenity/EndUserSteps.class
